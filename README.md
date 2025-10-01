@@ -65,6 +65,9 @@ kubectl logs <pod-name>
   - Pods running (`kubectl get pods`)
   - Service details (`kubectl get svc`)
   - Accessed Nginx page in browser
+ 
+     <img width="949" height="308" alt="image" src="https://github.com/user-attachments/assets/d706740f-493b-43cc-b513-60bbb87cd555" />
+
 
 ---
 
