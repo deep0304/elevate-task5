@@ -39,11 +39,17 @@ kubectl get svc
 minikube service demo-service --url
 ```
 
+<img width="903" height="229" alt="image" src="https://github.com/user-attachments/assets/f04ff066-426d-42df-80c0-ff206235910b" />
+
+
 4. **Scale Deployment**
 ```bash
 kubectl scale deployment demo-deployment --replicas=4
 kubectl get pods
 ```
+
+<img width="783" height="501" alt="image" src="https://github.com/user-attachments/assets/8ae1042d-555f-4e6a-8eab-60a0e0542288" />
+
 
 5. **Inspect and Debug**
 ```bash
